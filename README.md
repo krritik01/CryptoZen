@@ -61,3 +61,5 @@ To use CryptoZen, simply clone the repository and open the `index.html` file in 
 
 ```bash
 git clone https://github.com/krritik01/CryptoZen.git
+```
+
